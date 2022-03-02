@@ -10,7 +10,7 @@ __s__ = negrito  (no space)
 ## Titulo 2 (nivel 2)
 ### Titulo 3 (nivel 3)
 --- or *** (linha)
-__*s*__ (negrito e itálico) (no space)
+__*s*__ (negrito e itálico) (no space))
 
 Lista numerada
 1.
